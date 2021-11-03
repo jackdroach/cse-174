@@ -1,15 +1,16 @@
+package lab1;
+
 // Name: Jack Roach
 // CSE 174, Section I 
 // Date: August 27, 2021
-// Description: Practice with writing, saving,
-//              and compiling code. Plays a game of
-//              "Guess my number" with the user.
+// Description: Practice with writing, saving, and compiling code. Plays a game
+// of "Guess my number" with the user.
 
 import java.util.Scanner; // Needed for user input
 
 public class FirstProgram {
 
-   public static void main(String[] a) {
+   public static void main(String[] args) {
       // Declare local variables
       String first, last;
       int correctNumber, guess, guessCount;
@@ -57,7 +58,7 @@ public class FirstProgram {
    
    // By the time we get here, the user has guessed the correct
    // number. Print the results.
-   System.out.println("Congratulations, " + first + ".");
+   System.out.println("Congratulations, " + first + "");
    System.out.println("You got it in " + guessCount + " guesses.");
    
    if (guessCount <= 10) {
@@ -82,7 +83,7 @@ public class FirstProgram {
    
    // Prints a personalized welcome message to the user.
    public static void welcome(String name) {
-      System.out.println("Welcome, " + name + ".");
+      System.out.println("Welcome, " + name + "");
       System.out.println("This is my first CSE 174 programming assignment.");
       System.out.println("Let's play \"Guess My Number\"");
    } // end welcome

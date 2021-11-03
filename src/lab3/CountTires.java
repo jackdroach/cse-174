@@ -1,3 +1,5 @@
+package lab3;
+
 /**
  * Sept 3, 2021
  * Author: Jack Roach

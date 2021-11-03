@@ -1,3 +1,5 @@
+package lab6;
+
 /**
  * Jack Roach
  * Section: I
