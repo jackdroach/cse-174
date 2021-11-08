@@ -1,4 +1,4 @@
-package Lab11;
+package lab11;
 
 /*
  * Author: Jack Roach
