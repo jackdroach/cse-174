@@ -4,12 +4,12 @@ package assignment1;
  * Jack Roach
  * Section: I
  * Sep 2021
- * Program1.java
+ * Assignment1.java
  * This program decodes the digits.
  */
 import java.util.Scanner; // importing Scanner class
 
-public class Program1 {
+public class Assignment1 {
     public static void main(String[] args) {
         // Defining a Scanner object
         Scanner in = new Scanner(System.in);
@@ -57,4 +57,4 @@ public class Program1 {
             + encrypt1Char);
 
     } // End method main
-} // End class Program1
+} // End class Assignment1

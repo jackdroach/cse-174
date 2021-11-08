@@ -4,7 +4,7 @@ package assignment2;
  * Jack Roach
  * Section: I
  * Oct 7, 2021
- * Program1.java
+ * Assignment2.java
  * This program uses loops to read and write to files.
  */
 
@@ -13,7 +13,7 @@ import java.io.FileNotFoundException;
 import java.io.PrintWriter;
 import java.util.Scanner;
 
-public class Program2 {
+public class Assignment2 {
     public static void main(String[] args) throws FileNotFoundException {
         // Declare scanner for user input and file input
         Scanner keyboardReader = new Scanner(System.in);
@@ -102,4 +102,4 @@ public class Program2 {
         System.out.println("End!");
 
     } // End method main
-} // End class Program2
+} // End class Assignment2
