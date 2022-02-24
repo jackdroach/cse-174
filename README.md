@@ -8,4 +8,4 @@ For more information about this course click [here](https://www.miamioh.edu/cec/
 
 ## Lisense
 
-Copyright © 2021 Jack Roach and collaborators | All Rights Reserved.
+Copyright © 2021 - 2022 Jack Roach | All Rights Reserved.
